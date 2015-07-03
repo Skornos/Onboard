@@ -13,7 +13,7 @@
 static CGFloat const kPageControlHeight = 35;
 static CGFloat const kSkipButtonWidth = 100;
 static CGFloat const kSkipButtonHeight = 44;
-static CGFloat const kBackgroundMaskAlpha = 0.75;
+static CGFloat const kBackgroundMaskAlpha = 0.65;
 static CGFloat const kDefaultBlurRadius = 20;
 static CGFloat const kDefaultSaturationDeltaFactor = 1.8;
 
